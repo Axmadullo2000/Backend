@@ -1,7 +1,9 @@
 body {
-  background-color: red;
+  background-color: #221f1f;
   position: absolute;
   top: 50%;
   left: 50%;
+  border: 10% solid yellow;
+  border-color: yellow red #089c03;
   transform: translate(-50%, -50%);
 }/*# sourceMappingURL=style.css.map */
